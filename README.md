@@ -5,6 +5,9 @@ Exercise to read (*.json) and write (*.txt) file using storage access framework
 <img width="220" src="https://github.com/user-attachments/assets/74ef55a5-dfb1-4ac7-90d2-179a8f0b573f"/>
 <img width="220" src="https://github.com/user-attachments/assets/c37ba8d3-b6aa-4bf6-95bb-132708b2898d"/>
 
+## Android Studio
+<img width="401" alt="Screenshot 2025-07-02 at 4 39 39 PM" src="https://github.com/user-attachments/assets/458e1dea-96fe-4c29-8591-47c2a716934f" />
+
 ## References
 
 1. Google Developer: Access documents and other files from shared storage
