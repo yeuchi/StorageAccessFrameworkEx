@@ -48,7 +48,7 @@ class MainActivity : AppCompatActivity() {
     fun openTextFile() {
         val intent = Intent(Intent.ACTION_OPEN_DOCUMENT).apply {
             addCategory(Intent.CATEGORY_OPENABLE)
-            type = "application/json" // */* for all
+            type = "*/*" // "application/json" 
         }
         startActivityForResult(intent, READ_REQUEST_CODE)
     }
