@@ -2,7 +2,7 @@
 Exercise to read (*.json) and write (*.txt) file using storage access framework
 
 <img width="220" src="https://github.com/user-attachments/assets/de4bd1fa-6461-499a-9110-1b23c6aee0d0"/>
-<img width="220" src="https://github.com/user-attachments/assets/74ef55a5-dfb1-4ac7-90d2-179a8f0b573f"/>
+<img width="220" src="https://github.com/user-attachments/assets/6d844da1-15b0-499b-8081-3965d0c6807a"/>
 <img width="220" src="https://github.com/user-attachments/assets/c37ba8d3-b6aa-4bf6-95bb-132708b2898d"/>
 
 ## Android Studio
